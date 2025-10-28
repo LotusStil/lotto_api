@@ -1,10 +1,14 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 import json
 import os
 
 app = FastAPI()
+
+# 🔐 Token din variabile de mediu
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+print("Token din ENV:", ACCESS_TOKEN)
 
 # 🔹 Structuri de date
 class DrawWithSpecial(BaseModel):
@@ -19,6 +23,11 @@ class DrawWithoutSpecial(BaseModel):
     numbers: List[int]
     nextDraw: str
     estimatedJackpot: int
+
+# 🔹 Validare token
+def validate_token(x_token: Optional[str]):
+    if not x_token or x_token != ACCESS_TOKEN:
+        raise HTTPException(status_code=403, detail="Token invalid")
 
 # 🔹 Funcție pentru citirea fișierului fix
 def read_fixed_draw(prefix: str):
@@ -39,17 +48,20 @@ def read_fixed_draw(prefix: str):
     else:
         raise ValueError("Joc necunoscut")
 
-# 🔹 Endpoint-uri publice
+# 🔹 Endpoint-uri protejate
 @app.get("/draws/megamillions/latest", response_model=DrawWithSpecial)
-def get_megamillions_latest():
+def get_megamillions_latest(x_token: Optional[str] = Header(None)):
+    validate_token(x_token)
     return read_fixed_draw("Megamillions")
 
 @app.get("/draws/powerball/latest", response_model=DrawWithSpecial)
-def get_powerball_latest():
+def get_powerball_latest(x_token: Optional[str] = Header(None)):
+    validate_token(x_token)
     return read_fixed_draw("Powerball")
 
 @app.get("/draws/megabucks/latest", response_model=DrawWithoutSpecial)
-def get_megabucks_latest():
+def get_megabucks_latest(x_token: Optional[str] = Header(None)):
+    validate_token(x_token)
     return read_fixed_draw("Megabucks")
 
 # 🔹 Endpoint de test/debug
@@ -57,5 +69,6 @@ def get_megabucks_latest():
 def health_check():
     return {
         "status": "ok",
+        "token_loaded": bool(ACCESS_TOKEN),
         "files": os.listdir(".")
     }
