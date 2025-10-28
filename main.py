@@ -6,6 +6,7 @@ import glob
 import os
 
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+print("Token din ENV:", ACCESS_TOKEN)
 app = FastAPI()
 
 # 🔹 Structuri de date
