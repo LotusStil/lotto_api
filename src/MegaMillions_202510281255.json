@@ -1,0 +1,28 @@
+[
+  {
+    "drawDate": "2025-10-24",
+    "numbers": [
+      11,
+      18,
+      31,
+      51,
+      56
+    ],
+    "specialNumber": 24,
+    "nextDraw": "2025-10-28",
+    "estimatedJackpot": 680000000
+  },
+  {
+    "drawDate": "2025-10-21",
+    "numbers": [
+      2,
+      18,
+      27,
+      34,
+      59
+    ],
+    "specialNumber": 18,
+    "nextDraw": "2025-10-24",
+    "estimatedJackpot": 650000000
+  }
+]
