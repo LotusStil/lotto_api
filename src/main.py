@@ -26,7 +26,7 @@ class DrawWithoutSpecial(BaseModel):
 
 # 🔹 Funcție pentru a găsi cel mai nou fișier
 def get_latest_file(prefix: str) -> str:
-    files = glob.glob(f"data/{prefix}_*.json")
+    files = glob.glob(f"{prefix}_*.json")
     print(f"Fișiere găsite pentru {prefix}:", files)
     if not files:
         raise FileNotFoundError(f"Nu există fișiere pentru {prefix}")
