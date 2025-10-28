@@ -1,12 +1,9 @@
-from fastapi import FastAPI, Header, HTTPException
+from fastapi import FastAPI
 from pydantic import BaseModel
-from typing import List, Optional
+from typing import List
 import json
 import glob
 import os
-
-ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
-print("Token din ENV:", ACCESS_TOKEN)
 
 app = FastAPI()
 
@@ -47,24 +44,17 @@ def read_latest_draw(prefix: str):
     else:
         raise ValueError("Joc necunoscut")
 
-# 🔹 Endpoint-uri cu protecție prin token
-def validate_token(x_token: Optional[str]):
-    if not x_token or x_token != ACCESS_TOKEN:
-        raise HTTPException(status_code=403, detail="Token invalid")
-
+# 🔹 Endpoint-uri publice
 @app.get("/draws/megamillions/latest", response_model=DrawWithSpecial)
-def get_megamillions_latest(x_token: Optional[str] = Header(None)):
-    validate_token(x_token)
+def get_megamillions_latest():
     return read_latest_draw("Megamillions")
 
 @app.get("/draws/powerball/latest", response_model=DrawWithSpecial)
-def get_powerball_latest(x_token: Optional[str] = Header(None)):
-    validate_token(x_token)
+def get_powerball_latest():
     return read_latest_draw("Powerball")
 
 @app.get("/draws/megabucks/latest", response_model=DrawWithoutSpecial)
-def get_megabucks_latest(x_token: Optional[str] = Header(None)):
-    validate_token(x_token)
+def get_megabucks_latest():
     return read_latest_draw("Megabucks")
 
 # 🔹 Endpoint de test/debug
@@ -72,18 +62,15 @@ def get_megabucks_latest(x_token: Optional[str] = Header(None)):
 def health_check():
     return {
         "status": "ok",
-        "token": ACCESS_TOKEN,
-        "files_megamillions": glob.glob("data/Megamillions_*.json"),
-        "files_powerball": glob.glob("data/Powerball_*.json"),
-        "files_megabucks": glob.glob("data/Megabucks_*.json")
+        "files_megamillions": glob.glob("Megamillions_*.json"),
+        "files_powerball": glob.glob("Powerball_*.json"),
+        "files_megabucks": glob.glob("Megabucks_*.json")
     }
 
 # 🔹 Endpoint pentru listarea fișierelor din container
 @app.get("/debug/files")
 def list_files():
     root_files = os.listdir(".")
-    data_files = os.listdir("data") if os.path.exists("data") else []
     return {
-        "root_files": root_files,
-        "data_files": data_files
+        "root_files": root_files
     }
