@@ -1,12 +1,13 @@
 from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 import json
 import glob
 import os
 
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 print("Token din ENV:", ACCESS_TOKEN)
+
 app = FastAPI()
 
 # 🔹 Structuri de date
@@ -26,6 +27,7 @@ class DrawWithoutSpecial(BaseModel):
 # 🔹 Funcție pentru a găsi cel mai nou fișier
 def get_latest_file(prefix: str) -> str:
     files = glob.glob(f"{prefix}_*.json")
+    print(f"Fișiere găsite pentru {prefix}:", files)
     if not files:
         raise FileNotFoundError(f"Nu există fișiere pentru {prefix}")
     files.sort(reverse=True)
@@ -47,19 +49,30 @@ def read_latest_draw(prefix: str):
 
 # 🔹 Endpoint-uri cu protecție prin token
 @app.get("/draws/megamillions/latest", response_model=DrawWithSpecial)
-def get_megamillions_latest(x_token: str = Header(...)):
-    if x_token != ACCESS_TOKEN:
+def get_megamillions_latest(x_token: Optional[str] = Header(None)):
+    if not x_token or x_token != ACCESS_TOKEN:
         raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Megamillions")
 
 @app.get("/draws/powerball/latest", response_model=DrawWithSpecial)
-def get_powerball_latest(x_token: str = Header(...)):
-    if x_token != ACCESS_TOKEN:
+def get_powerball_latest(x_token: Optional[str] = Header(None)):
+    if not x_token or x_token != ACCESS_TOKEN:
         raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Powerball")
 
 @app.get("/draws/megabucks/latest", response_model=DrawWithoutSpecial)
-def get_megabucks_latest(x_token: str = Header(...)):
-    if x_token != ACCESS_TOKEN:
+def get_megabucks_latest(x_token: Optional[str] = Header(None)):
+    if not x_token or x_token != ACCESS_TOKEN:
         raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Megabucks")
+
+# 🔹 Endpoint de test/debug
+@app.get("/healthz")
+def health_check():
+    return {
+        "status": "ok",
+        "token": ACCESS_TOKEN,
+        "files_megamillions": glob.glob("Megamillions_*.json"),
+        "files_powerball": glob.glob("Powerball_*.json"),
+        "files_megabucks": glob.glob("Megabucks_*.json")
+    }
