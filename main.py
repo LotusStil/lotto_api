@@ -1,10 +1,11 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel
-from typing import List, Optional
+from typing import List
 import json
 import glob
 import os
 
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 app = FastAPI()
 
 # 🔹 Structuri de date
@@ -43,15 +44,21 @@ def read_latest_draw(prefix: str):
     else:
         raise ValueError("Joc necunoscut")
 
-# 🔹 Endpoint-uri
+# 🔹 Endpoint-uri cu protecție prin token
 @app.get("/draws/megamillions/latest", response_model=DrawWithSpecial)
-def get_megamillions_latest():
+def get_megamillions_latest(x_token: str = Header(...)):
+    if x_token != ACCESS_TOKEN:
+        raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Megamillions")
 
 @app.get("/draws/powerball/latest", response_model=DrawWithSpecial)
-def get_powerball_latest():
+def get_powerball_latest(x_token: str = Header(...)):
+    if x_token != ACCESS_TOKEN:
+        raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Powerball")
 
 @app.get("/draws/megabucks/latest", response_model=DrawWithoutSpecial)
-def get_megabucks_latest():
+def get_megabucks_latest(x_token: str = Header(...)):
+    if x_token != ACCESS_TOKEN:
+        raise HTTPException(status_code=403, detail="Token invalid")
     return read_latest_draw("Megabucks")
