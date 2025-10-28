@@ -35,6 +35,8 @@ def read_latest_draw(prefix: str):
     filename = get_latest_file(prefix)
     with open(filename, "r") as f:
         data = json.load(f)
+    if not isinstance(data, list) or len(data) == 0:
+        raise ValueError(f"Fișierul {filename} nu conține un array valid cu extrageri")
     raw = data[0]
 
     if prefix == "Megabucks":
