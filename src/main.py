@@ -3,7 +3,6 @@ from pydantic import BaseModel
 from typing import List, Optional
 import json
 import os
-from datetime import datetime
 
 app = FastAPI()
 
@@ -37,40 +36,24 @@ def read_all_draws(prefix: str):
         data = json.load(f)
     return data
 
-# 🔹 Filtrare după dată
-def filter_draws_since(data: List[dict], date_str: str):
-    try:
-        cutoff = datetime.strptime(date_str, "%Y-%m-%d")
-    except ValueError:
-        raise HTTPException(status_code=400, detail="Format dată invalid. Folosește YYYY-MM-DD.")
-    return [d for d in data if datetime.strptime(d["drawDate"], "%Y-%m-%d") > cutoff]
-
-# 🔹 Endpointuri existente
-@app.get("/draws/{game}/latest")
-def get_latest_draw(game: str, x_token: Optional[str] = Header(None)):
+# 🔹 Endpointuri pentru fiecare joc
+@app.get("/draws/megamillions/all", response_model=List[DrawWithSpecial])
+def get_megamillions_all(x_token: Optional[str] = Header(None)):
     validate_token(x_token)
-    data = read_all_draws(game.capitalize())
-    if not data:
-        raise HTTPException(status_code=404, detail="Nicio extragere disponibilă")
-    raw = data[0]
-    if game.lower() == "megabucks":
-        return DrawWithoutSpecial(**raw)
-    else:
-        return DrawWithSpecial(**raw)
+    data = read_all_draws("Megamillions")
+    return [DrawWithSpecial(**d) for d in data]
 
-# 🔹 Endpoint nou: toate extragerile
-@app.get("/draws/{game}/all")
-def get_all_draws(game: str, x_token: Optional[str] = Header(None)):
+@app.get("/draws/powerball/all", response_model=List[DrawWithSpecial])
+def get_powerball_all(x_token: Optional[str] = Header(None)):
     validate_token(x_token)
-    return read_all_draws(game.capitalize())
+    data = read_all_draws("Powerball")
+    return [DrawWithSpecial(**d) for d in data]
 
-# 🔹 Endpoint nou: extrageri după o dată
-@app.get("/draws/{game}/since/{date}")
-def get_draws_since(game: str, date: str, x_token: Optional[str] = Header(None)):
+@app.get("/draws/megabucks/all", response_model=List[DrawWithoutSpecial])
+def get_megabucks_all(x_token: Optional[str] = Header(None)):
     validate_token(x_token)
-    data = read_all_draws(game.capitalize())
-    filtered = filter_draws_since(data, date)
-    return filtered
+    data = read_all_draws("Megabucks")
+    return [DrawWithoutSpecial(**d) for d in data]
 
 # 🔹 Health check
 @app.get("/healthz")
