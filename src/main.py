@@ -3,12 +3,11 @@ from pydantic import BaseModel
 from typing import List, Optional
 import json
 import os
+from datetime import datetime
 
 app = FastAPI()
 
-# 🔐 Token din variabile de mediu
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
-print("Token din ENV:", ACCESS_TOKEN)
 
 # 🔹 Structuri de date
 class DrawWithSpecial(BaseModel):
@@ -29,42 +28,51 @@ def validate_token(x_token: Optional[str]):
     if not x_token or x_token != ACCESS_TOKEN:
         raise HTTPException(status_code=403, detail="Token invalid")
 
-# 🔹 Funcție pentru citirea fișierului fix
-def read_fixed_draw(prefix: str):
+# 🔹 Citire fișier complet
+def read_all_draws(prefix: str):
     filename = f"{prefix}.json"
-    print(f"Încerc să citesc: {filename}")
     if not os.path.exists(filename):
         raise FileNotFoundError(f"Fișierul {filename} nu există")
     with open(filename, "r") as f:
         data = json.load(f)
-    if not isinstance(data, list) or len(data) == 0:
-        raise ValueError(f"Fișierul {filename} nu conține un array valid cu extrageri")
+    return data
+
+# 🔹 Filtrare după dată
+def filter_draws_since(data: List[dict], date_str: str):
+    try:
+        cutoff = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        raise HTTPException(status_code=400, detail="Format dată invalid. Folosește YYYY-MM-DD.")
+    return [d for d in data if datetime.strptime(d["drawDate"], "%Y-%m-%d") > cutoff]
+
+# 🔹 Endpointuri existente
+@app.get("/draws/{game}/latest")
+def get_latest_draw(game: str, x_token: Optional[str] = Header(None)):
+    validate_token(x_token)
+    data = read_all_draws(game.capitalize())
+    if not data:
+        raise HTTPException(status_code=404, detail="Nicio extragere disponibilă")
     raw = data[0]
-
-    if prefix == "Megabucks":
+    if game.lower() == "megabucks":
         return DrawWithoutSpecial(**raw)
-    elif prefix in ["Megamillions", "Powerball"]:
-        return DrawWithSpecial(**raw)
     else:
-        raise ValueError("Joc necunoscut")
+        return DrawWithSpecial(**raw)
 
-# 🔹 Endpoint-uri protejate
-@app.get("/draws/megamillions/latest", response_model=DrawWithSpecial)
-def get_megamillions_latest(x_token: Optional[str] = Header(None)):
+# 🔹 Endpoint nou: toate extragerile
+@app.get("/draws/{game}/all")
+def get_all_draws(game: str, x_token: Optional[str] = Header(None)):
     validate_token(x_token)
-    return read_fixed_draw("Megamillions")
+    return read_all_draws(game.capitalize())
 
-@app.get("/draws/powerball/latest", response_model=DrawWithSpecial)
-def get_powerball_latest(x_token: Optional[str] = Header(None)):
+# 🔹 Endpoint nou: extrageri după o dată
+@app.get("/draws/{game}/since/{date}")
+def get_draws_since(game: str, date: str, x_token: Optional[str] = Header(None)):
     validate_token(x_token)
-    return read_fixed_draw("Powerball")
+    data = read_all_draws(game.capitalize())
+    filtered = filter_draws_since(data, date)
+    return filtered
 
-@app.get("/draws/megabucks/latest", response_model=DrawWithoutSpecial)
-def get_megabucks_latest(x_token: Optional[str] = Header(None)):
-    validate_token(x_token)
-    return read_fixed_draw("Megabucks")
-
-# 🔹 Endpoint de test/debug
+# 🔹 Health check
 @app.get("/healthz")
 def health_check():
     return {
