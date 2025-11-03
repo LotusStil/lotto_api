@@ -63,3 +63,10 @@ def health_check():
         "token_loaded": bool(ACCESS_TOKEN),
         "files": os.listdir(".")
     }
+
+# 🔹 Endpoint public pentru livrarea tokenului către aplicație
+@app.get("/api/token")
+def get_token():
+    if not ACCESS_TOKEN:
+        raise HTTPException(status_code=500, detail="Token not configurat")
+    return {"token": ACCESS_TOKEN}
