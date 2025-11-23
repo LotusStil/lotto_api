@@ -1,0 +1,42 @@
+[
+  {
+    "drawDate": "2024-09-03",
+    "extractedNumbers": [
+      12,
+      41,
+      43,
+      52,
+      55
+    ],
+    "specialNumberExtracted": 9,
+    "suggestedNumbers": [
+      41,
+      52,
+      39,
+      43,
+      13
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 3
+  },
+  {
+    "drawDate": "2023-05-19",
+    "extractedNumbers": [
+      5,
+      11,
+      41,
+      44,
+      55
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      10,
+      11,
+      5,
+      56,
+      44
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 3
+  }
+]
