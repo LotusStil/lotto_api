@@ -1,0 +1,902 @@
+[
+  {
+    "drawDate": "2025-07-08",
+    "extractedNumbers": [
+      4,
+      6,
+      38,
+      44,
+      62
+    ],
+    "specialNumberExtracted": 24,
+    "suggestedNumbers": [
+      44,
+      67,
+      59,
+      53,
+      4
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2025-06-03",
+    "extractedNumbers": [
+      16,
+      24,
+      29,
+      36,
+      45
+    ],
+    "specialNumberExtracted": 13,
+    "suggestedNumbers": [
+      44,
+      36,
+      67,
+      45,
+      59
+    ],
+    "specialNumberSuggested": 12,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2025-03-21",
+    "extractedNumbers": [
+      15,
+      22,
+      31,
+      52,
+      57
+    ],
+    "specialNumberExtracted": 2,
+    "suggestedNumbers": [
+      15,
+      40,
+      6,
+      57,
+      44
+    ],
+    "specialNumberSuggested": 14,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-12-03",
+    "extractedNumbers": [
+      52,
+      60,
+      61,
+      66,
+      67
+    ],
+    "specialNumberExtracted": 23,
+    "suggestedNumbers": [
+      15,
+      67,
+      7,
+      61,
+      30
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-11-29",
+    "extractedNumbers": [
+      3,
+      29,
+      34,
+      37,
+      38
+    ],
+    "specialNumberExtracted": 17,
+    "suggestedNumbers": [
+      37,
+      15,
+      67,
+      7,
+      38
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-08-13",
+    "extractedNumbers": [
+      34,
+      55,
+      59,
+      65,
+      70
+    ],
+    "specialNumberExtracted": 12,
+    "suggestedNumbers": [
+      41,
+      20,
+      52,
+      34,
+      59
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-04-09",
+    "extractedNumbers": [
+      34,
+      43,
+      51,
+      52,
+      69
+    ],
+    "specialNumberExtracted": 25,
+    "suggestedNumbers": [
+      48,
+      43,
+      52,
+      32,
+      36
+    ],
+    "specialNumberSuggested": 9,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-04-05",
+    "extractedNumbers": [
+      20,
+      30,
+      54,
+      63,
+      65
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      48,
+      63,
+      43,
+      52,
+      65
+    ],
+    "specialNumberSuggested": 9,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2024-02-23",
+    "extractedNumbers": [
+      4,
+      6,
+      40,
+      41,
+      60
+    ],
+    "specialNumberExtracted": 11,
+    "suggestedNumbers": [
+      4,
+      48,
+      56,
+      41,
+      51
+    ],
+    "specialNumberSuggested": 19,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2023-10-20",
+    "extractedNumbers": [
+      7,
+      29,
+      36,
+      49,
+      61
+    ],
+    "specialNumberExtracted": 22,
+    "suggestedNumbers": [
+      58,
+      7,
+      49,
+      27,
+      25
+    ],
+    "specialNumberSuggested": 10,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2023-03-24",
+    "extractedNumbers": [
+      14,
+      17,
+      33,
+      42,
+      66
+    ],
+    "specialNumberExtracted": 15,
+    "suggestedNumbers": [
+      42,
+      10,
+      11,
+      34,
+      17
+    ],
+    "specialNumberSuggested": 15,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-12-23",
+    "extractedNumbers": [
+      15,
+      21,
+      32,
+      38,
+      62
+    ],
+    "specialNumberExtracted": 8,
+    "suggestedNumbers": [
+      49,
+      42,
+      62,
+      32,
+      10
+    ],
+    "specialNumberSuggested": 5,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-10-14",
+    "extractedNumbers": [
+      9,
+      22,
+      26,
+      41,
+      44
+    ],
+    "specialNumberExtracted": 19,
+    "suggestedNumbers": [
+      49,
+      19,
+      44,
+      22,
+      34
+    ],
+    "specialNumberSuggested": 19,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-09-20",
+    "extractedNumbers": [
+      9,
+      21,
+      28,
+      30,
+      52
+    ],
+    "specialNumberExtracted": 10,
+    "suggestedNumbers": [
+      28,
+      49,
+      19,
+      44,
+      9
+    ],
+    "specialNumberSuggested": 6,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-09-02",
+    "extractedNumbers": [
+      39,
+      40,
+      52,
+      60,
+      67
+    ],
+    "specialNumberExtracted": 20,
+    "suggestedNumbers": [
+      39,
+      28,
+      52,
+      49,
+      19
+    ],
+    "specialNumberSuggested": 6,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-06-14",
+    "extractedNumbers": [
+      30,
+      37,
+      38,
+      42,
+      58
+    ],
+    "specialNumberExtracted": 22,
+    "suggestedNumbers": [
+      10,
+      37,
+      67,
+      1,
+      30
+    ],
+    "specialNumberSuggested": 7,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-05-13",
+    "extractedNumbers": [
+      11,
+      41,
+      43,
+      44,
+      65
+    ],
+    "specialNumberExtracted": 13,
+    "suggestedNumbers": [
+      41,
+      10,
+      65,
+      37,
+      67
+    ],
+    "specialNumberSuggested": 7,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2022-03-04",
+    "extractedNumbers": [
+      11,
+      19,
+      28,
+      46,
+      47
+    ],
+    "specialNumberExtracted": 5,
+    "suggestedNumbers": [
+      47,
+      41,
+      51,
+      70,
+      28
+    ],
+    "specialNumberSuggested": 7,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-12-14",
+    "extractedNumbers": [
+      33,
+      35,
+      44,
+      55,
+      69
+    ],
+    "specialNumberExtracted": 20,
+    "suggestedNumbers": [
+      33,
+      2,
+      55,
+      38,
+      50
+    ],
+    "specialNumberSuggested": 20,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-11-12",
+    "extractedNumbers": [
+      30,
+      32,
+      42,
+      46,
+      48
+    ],
+    "specialNumberExtracted": 15,
+    "suggestedNumbers": [
+      23,
+      60,
+      33,
+      48,
+      42
+    ],
+    "specialNumberSuggested": 2,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-07-27",
+    "extractedNumbers": [
+      2,
+      35,
+      36,
+      54,
+      64
+    ],
+    "specialNumberExtracted": 11,
+    "suggestedNumbers": [
+      16,
+      2,
+      35,
+      62,
+      12
+    ],
+    "specialNumberSuggested": 6,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-07-23",
+    "extractedNumbers": [
+      13,
+      17,
+      19,
+      40,
+      69
+    ],
+    "specialNumberExtracted": 17,
+    "suggestedNumbers": [
+      16,
+      13,
+      2,
+      35,
+      40
+    ],
+    "specialNumberSuggested": 6,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-06-22",
+    "extractedNumbers": [
+      1,
+      26,
+      48,
+      51,
+      59
+    ],
+    "specialNumberExtracted": 25,
+    "suggestedNumbers": [
+      51,
+      16,
+      59,
+      13,
+      2
+    ],
+    "specialNumberSuggested": 1,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2021-03-16",
+    "extractedNumbers": [
+      10,
+      41,
+      46,
+      52,
+      69
+    ],
+    "specialNumberExtracted": 8,
+    "suggestedNumbers": [
+      30,
+      63,
+      22,
+      41,
+      52
+    ],
+    "specialNumberSuggested": 23,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2020-08-14",
+    "extractedNumbers": [
+      3,
+      24,
+      29,
+      42,
+      47
+    ],
+    "specialNumberExtracted": 13,
+    "suggestedNumbers": [
+      38,
+      3,
+      68,
+      18,
+      24
+    ],
+    "specialNumberSuggested": 16,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2020-06-23",
+    "extractedNumbers": [
+      6,
+      20,
+      37,
+      40,
+      48
+    ],
+    "specialNumberExtracted": 15,
+    "suggestedNumbers": [
+      40,
+      4,
+      48,
+      49,
+      64
+    ],
+    "specialNumberSuggested": 23,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2020-06-02",
+    "extractedNumbers": [
+      9,
+      20,
+      23,
+      26,
+      29
+    ],
+    "specialNumberExtracted": 8,
+    "suggestedNumbers": [
+      26,
+      42,
+      40,
+      23,
+      4
+    ],
+    "specialNumberSuggested": 23,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2020-05-01",
+    "extractedNumbers": [
+      28,
+      30,
+      31,
+      35,
+      66
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      26,
+      5,
+      42,
+      66,
+      30
+    ],
+    "specialNumberSuggested": 3,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2019-07-23",
+    "extractedNumbers": [
+      1,
+      4,
+      23,
+      40,
+      45
+    ],
+    "specialNumberExtracted": 11,
+    "suggestedNumbers": [
+      51,
+      69,
+      4,
+      60,
+      1
+    ],
+    "specialNumberSuggested": 8,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2019-07-16",
+    "extractedNumbers": [
+      8,
+      16,
+      31,
+      48,
+      52
+    ],
+    "specialNumberExtracted": 23,
+    "suggestedNumbers": [
+      51,
+      69,
+      31,
+      52,
+      4
+    ],
+    "specialNumberSuggested": 8,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2019-06-28",
+    "extractedNumbers": [
+      2,
+      35,
+      49,
+      53,
+      63
+    ],
+    "specialNumberExtracted": 1,
+    "suggestedNumbers": [
+      51,
+      69,
+      2,
+      31,
+      35
+    ],
+    "specialNumberSuggested": 1,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2019-06-07",
+    "extractedNumbers": [
+      17,
+      19,
+      27,
+      40,
+      68
+    ],
+    "specialNumberExtracted": 2,
+    "suggestedNumbers": [
+      19,
+      51,
+      45,
+      27,
+      13
+    ],
+    "specialNumberSuggested": 1,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2019-02-22",
+    "extractedNumbers": [
+      18,
+      24,
+      31,
+      34,
+      55
+    ],
+    "specialNumberExtracted": 4,
+    "suggestedNumbers": [
+      55,
+      47,
+      6,
+      19,
+      18
+    ],
+    "specialNumberSuggested": 25,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2018-09-14",
+    "extractedNumbers": [
+      23,
+      30,
+      40,
+      43,
+      66
+    ],
+    "specialNumberExtracted": 13,
+    "suggestedNumbers": [
+      43,
+      23,
+      58,
+      53,
+      36
+    ],
+    "specialNumberSuggested": 15,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2018-08-28",
+    "extractedNumbers": [
+      3,
+      20,
+      33,
+      34,
+      41
+    ],
+    "specialNumberExtracted": 20,
+    "suggestedNumbers": [
+      43,
+      23,
+      20,
+      7,
+      34
+    ],
+    "specialNumberSuggested": 15,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2018-07-06",
+    "extractedNumbers": [
+      2,
+      10,
+      46,
+      50,
+      56
+    ],
+    "specialNumberExtracted": 16,
+    "suggestedNumbers": [
+      69,
+      50,
+      57,
+      54,
+      46
+    ],
+    "specialNumberSuggested": 12,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2018-06-05",
+    "extractedNumbers": [
+      22,
+      33,
+      41,
+      48,
+      52
+    ],
+    "specialNumberExtracted": 4,
+    "suggestedNumbers": [
+      69,
+      50,
+      22,
+      37,
+      41
+    ],
+    "specialNumberSuggested": 12,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2018-04-13",
+    "extractedNumbers": [
+      8,
+      9,
+      32,
+      42,
+      59
+    ],
+    "specialNumberExtracted": 10,
+    "suggestedNumbers": [
+      32,
+      63,
+      45,
+      68,
+      9
+    ],
+    "specialNumberSuggested": 12,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2017-10-10",
+    "extractedNumbers": [
+      7,
+      16,
+      24,
+      61,
+      62
+    ],
+    "specialNumberExtracted": 2,
+    "suggestedNumbers": [
+      62,
+      68,
+      48,
+      7,
+      59
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2017-09-22",
+    "extractedNumbers": [
+      5,
+      39,
+      54,
+      63,
+      66
+    ],
+    "specialNumberExtracted": 15,
+    "suggestedNumbers": [
+      62,
+      66,
+      36,
+      68,
+      39
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2017-06-27",
+    "extractedNumbers": [
+      4,
+      21,
+      45,
+      52,
+      57
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      52,
+      62,
+      57,
+      66,
+      36
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2017-01-10",
+    "extractedNumbers": [
+      11,
+      20,
+      40,
+      41,
+      59
+    ],
+    "specialNumberExtracted": 15,
+    "suggestedNumbers": [
+      20,
+      52,
+      11,
+      70,
+      56
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2016-12-13",
+    "extractedNumbers": [
+      2,
+      15,
+      26,
+      34,
+      41
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      14,
+      26,
+      20,
+      52,
+      41
+    ],
+    "specialNumberSuggested": 6,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2016-08-02",
+    "extractedNumbers": [
+      3,
+      12,
+      36,
+      54,
+      70
+    ],
+    "specialNumberExtracted": 12,
+    "suggestedNumbers": [
+      28,
+      41,
+      36,
+      20,
+      54
+    ],
+    "specialNumberSuggested": 4,
+    "matchedCount": 2
+  },
+  {
+    "drawDate": "2016-07-01",
+    "extractedNumbers": [
+      20,
+      41,
+      42,
+      45,
+      49
+    ],
+    "specialNumberExtracted": 14,
+    "suggestedNumbers": [
+      33,
+      40,
+      49,
+      41,
+      57
+    ],
+    "specialNumberSuggested": 15,
+    "matchedCount": 2
+  }
+]
