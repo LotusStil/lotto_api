@@ -1,5 +1,27 @@
 [
   {
+    "drawDate": "2025-11-24",
+    "extractedNumbers": [
+      6,
+      8,
+      21,
+      22,
+      35,
+      45
+    ],
+    "specialNumberExtracted": null,
+    "suggestedNumbers": [
+      40,
+      15,
+      17,
+      22,
+      46,
+      7
+    ],
+    "specialNumberSuggested": null,
+    "matchedCount": 1
+  },
+  {
     "drawDate": "2025-11-22",
     "extractedNumbers": [
       4,
