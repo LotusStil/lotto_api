@@ -1,0 +1,244 @@
+[2025-11-10 10:46:12] ✅ Token valid — autentificat ca LotusStil
+[2025-11-10 10:46:21] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-10 10:46:23] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-10 10:46:23] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-10 10:46:23] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-10 10:46:25] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-10 10:46:25] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-10 10:46:26] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-10 10:46:27] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-10 10:46:28] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-11 15:00:29] ✅ Token valid — autentificat ca LotusStil
+[2025-11-11 15:00:33] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-11 15:00:34] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-11 15:00:35] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-11 15:00:35] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-11 15:00:36] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-11 15:00:37] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-11 15:00:37] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-11 15:00:39] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-11 15:00:40] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-15 01:00:39] ✅ Token valid — autentificat ca LotusStil
+[2025-11-15 01:00:42] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-15 01:00:44] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-15 01:00:45] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-15 01:00:45] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-15 01:00:46] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-15 01:00:47] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-15 01:00:47] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-15 01:00:48] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-15 01:00:49] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-15 20:13:13] ✅ Token valid — autentificat ca LotusStil
+[2025-11-15 20:13:18] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-15 20:13:19] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-15 20:13:20] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-15 20:13:20] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-15 20:13:21] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-15 20:13:22] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-15 20:13:22] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-15 20:13:23] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-15 20:13:24] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-16 11:44:36] ✅ Token valid — autentificat ca LotusStil
+[2025-11-16 11:44:49] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-16 11:44:50] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-16 11:44:51] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-16 11:44:51] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-16 11:44:52] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-16 11:44:53] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-16 11:44:53] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-16 11:44:54] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-16 11:44:55] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-22 07:16:40] ✅ Token valid — autentificat ca LotusStil
+[2025-11-22 07:16:43] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-22 07:16:45] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-22 07:16:46] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-22 07:16:46] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-22 07:16:47] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-22 07:16:48] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-22 07:16:48] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-22 07:16:49] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-22 07:16:50] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-23 10:00:29] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 10:00:42] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 10:00:43] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-23 10:00:44] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-23 10:00:44] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 10:00:46] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-23 10:00:46] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-23 10:00:46] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 10:00:48] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-23 10:00:49] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-23 10:24:38] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 10:25:28] Converting PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 10:25:31] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-23 10:25:31] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-23 10:25:31] Converting MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 10:25:34] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-23 10:25:35] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-23 10:25:35] Converting Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 10:25:38] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-23 10:25:39] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-23 10:28:43] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 10:29:05] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 10:29:07] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 10:29:07] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 10:29:09] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 10:29:09] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 10:29:11] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 12:19:25] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 12:19:28] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 12:19:30] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 12:19:30] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 12:19:32] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 12:19:32] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 12:19:34] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 13:01:23] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 13:02:09] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 14:00:29] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 14:00:35] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 14:00:37] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 14:05:08] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 14:05:10] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 14:05:13] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 14:05:19] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-23 14:05:19] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 14:05:21] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 14:05:27] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-23 14:05:27] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 14:05:29] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 14:05:34] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-23 17:12:41] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 17:12:43] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 17:12:46] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 17:12:52] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-23 17:12:52] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 17:12:54] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 17:13:00] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-23 17:13:00] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 17:13:02] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 17:13:08] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-23 17:18:23] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 17:18:28] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 17:18:30] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 17:18:38] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-23 17:18:38] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 17:18:40] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 17:18:47] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-23 17:18:47] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 17:18:49] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 17:18:55] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-23 21:28:01] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 21:28:15] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 21:28:17] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 21:30:50] ✅ Token valid — autentificat ca LotusStil
+[2025-11-23 21:30:53] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-23 21:30:55] 🚀 PowerBall urcat în GitHub.
+[2025-11-23 21:31:01] 🎲 Fișierul powerball_suggested_tickets.json a fost generat și salvat local.
+[2025-11-23 21:31:01] 🚀 Fișierul powerball_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-23 21:31:03] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-23 21:31:05] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_1from6.json
+[2025-11-23 21:31:07] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_2from6.json
+[2025-11-23 21:31:09] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_3from6.json
+[2025-11-23 21:31:10] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_4from6.json
+[2025-11-23 21:31:12] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_5from6.json
+[2025-11-23 21:31:14] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_6from6.json
+[2025-11-23 21:31:14] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-23 21:31:16] 🚀 MegaMillions urcat în GitHub.
+[2025-11-23 21:31:21] 🎲 Fișierul megamillions_suggested_tickets.json a fost generat și salvat local.
+[2025-11-23 21:31:21] 🚀 Fișierul megamillions_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-23 21:31:24] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-23 21:31:25] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_1from6.json
+[2025-11-23 21:31:27] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_2from6.json
+[2025-11-23 21:31:29] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_3from6.json
+[2025-11-23 21:31:31] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_4from6.json
+[2025-11-23 21:31:33] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_5from6.json
+[2025-11-23 21:31:34] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_6from6.json
+[2025-11-23 21:31:35] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-23 21:31:37] 🚀 Megabucks urcat în GitHub.
+[2025-11-23 21:31:40] 🎲 Fișierul megabucks_suggested_tickets.json a fost generat și salvat local.
+[2025-11-23 21:31:40] 🚀 Fișierul megabucks_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-23 21:31:42] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-23 21:31:44] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_1from6.json
+[2025-11-23 21:31:46] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_2from6.json
+[2025-11-23 21:31:48] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_3from6.json
+[2025-11-23 21:31:49] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_4from6.json
+[2025-11-23 21:31:51] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_5from6.json
+[2025-11-23 21:31:53] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_6from6.json
+[2025-11-26 20:58:14] ✅ Token valid — autentificat ca LotusStil
+[2025-11-26 20:58:21] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-26 20:58:23] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json a fost urcat în GitHub.
+[2025-11-26 20:58:24] ✅ [API] PowerBall: fișierul există și a fost accesat
+[2025-11-26 20:58:24] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-26 20:58:25] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json a fost urcat în GitHub.
+[2025-11-26 20:58:26] ✅ [API] MegaMillions: fișierul există și a fost accesat
+[2025-11-26 20:58:26] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-26 20:58:27] 🚀 Fișierul d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json a fost urcat în GitHub.
+[2025-11-26 20:58:28] ✅ [API] Megabucks: fișierul există și a fost accesat
+[2025-11-26 20:58:45] ✅ Token valid — autentificat ca LotusStil
+[2025-11-26 20:58:50] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-26 20:58:52] 🚀 PowerBall urcat în GitHub.
+[2025-11-26 20:58:57] 🎲 Fișierul powerball_suggested_tickets.json a fost generat și salvat local.
+[2025-11-26 20:58:57] 🚀 Fișierul powerball_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-26 20:59:00] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-26 20:59:02] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_1from6.json
+[2025-11-26 20:59:03] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_2from6.json
+[2025-11-26 20:59:05] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_3from6.json
+[2025-11-26 20:59:07] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_4from6.json
+[2025-11-26 20:59:09] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_5from6.json
+[2025-11-26 20:59:11] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_6from6.json
+[2025-11-26 20:59:11] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-26 20:59:13] 🚀 MegaMillions urcat în GitHub.
+[2025-11-26 20:59:18] 🎲 Fișierul megamillions_suggested_tickets.json a fost generat și salvat local.
+[2025-11-26 20:59:18] 🚀 Fișierul megamillions_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-26 20:59:20] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-26 20:59:23] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_1from6.json
+[2025-11-26 20:59:24] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_2from6.json
+[2025-11-26 20:59:26] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_3from6.json
+[2025-11-26 20:59:28] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_4from6.json
+[2025-11-26 20:59:30] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_5from6.json
+[2025-11-26 20:59:32] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_6from6.json
+[2025-11-26 20:59:32] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-26 20:59:34] 🚀 Megabucks urcat în GitHub.
+[2025-11-26 20:59:38] 🎲 Fișierul megabucks_suggested_tickets.json a fost generat și salvat local.
+[2025-11-26 20:59:38] 🚀 Fișierul megabucks_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-26 20:59:40] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-26 20:59:42] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_1from6.json
+[2025-11-26 20:59:44] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_2from6.json
+[2025-11-26 20:59:46] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_3from6.json
+[2025-11-26 20:59:48] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_4from6.json
+[2025-11-26 20:59:50] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_5from6.json
+[2025-11-26 20:59:52] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_6from6.json
+[2025-11-30 17:25:06] ✅ Token valid — autentificat ca LotusStil
+[2025-11-30 17:25:13] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-11-30 17:25:15] 🚀 PowerBall urcat în GitHub.
+[2025-11-30 17:25:21] 🎲 Fișierul powerball_suggested_tickets.json a fost generat și salvat local.
+[2025-11-30 17:25:21] 🚀 Fișierul powerball_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-30 17:25:23] 🎲 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_suggested_tickets.json
+[2025-11-30 17:25:25] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_1from6.json
+[2025-11-30 17:25:27] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_2from6.json
+[2025-11-30 17:25:28] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_3from6.json
+[2025-11-30 17:25:30] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_4from6.json
+[2025-11-30 17:25:32] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_5from6.json
+[2025-11-30 17:25:34] 📊 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\powerball_6from6.json
+[2025-11-30 17:25:34] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-11-30 17:25:36] 🚀 MegaMillions urcat în GitHub.
+[2025-11-30 17:25:41] 🎲 Fișierul megamillions_suggested_tickets.json a fost generat și salvat local.
+[2025-11-30 17:25:41] 🚀 Fișierul megamillions_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-30 17:25:43] 🎲 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_suggested_tickets.json
+[2025-11-30 17:25:45] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_1from6.json
+[2025-11-30 17:25:47] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_2from6.json
+[2025-11-30 17:25:49] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_3from6.json
+[2025-11-30 17:25:50] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_4from6.json
+[2025-11-30 17:25:52] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_5from6.json
+[2025-11-30 17:25:54] 📊 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\megamillions_6from6.json
+[2025-11-30 17:25:54] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-11-30 17:25:56] 🚀 Megabucks urcat în GitHub.
+[2025-11-30 17:26:00] 🎲 Fișierul megabucks_suggested_tickets.json a fost generat și salvat local.
+[2025-11-30 17:26:00] 🚀 Fișierul megabucks_suggested_tickets.json pregătit pentru upload în GitHub.
+[2025-11-30 17:26:02] 🎲 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_suggested_tickets.json
+[2025-11-30 17:26:04] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_1from6.json
+[2025-11-30 17:26:06] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_2from6.json
+[2025-11-30 17:26:08] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_3from6.json
+[2025-11-30 17:26:09] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_4from6.json
+[2025-11-30 17:26:11] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_5from6.json
+[2025-11-30 17:26:13] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_6from6.json
