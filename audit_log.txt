@@ -242,3 +242,11 @@
 [2025-11-30 17:26:09] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_4from6.json
 [2025-11-30 17:26:11] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_5from6.json
 [2025-11-30 17:26:13] 📊 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\megabucks_6from6.json
+[2025-12-03 22:11:33] [INFO] ✅ Token valid — autentificat ca LotusStil
+[2025-12-03 22:14:28] [INFO] ✅ Token valid — autentificat ca LotusStil
+[2025-12-03 22:14:37] [INFO] 🔁 Automat: PowerBall → d:\VisualStudioCode\ExcelToJson\GitHub\src\Powerball.json
+[2025-12-03 22:14:39] [INFO] 🚀 PowerBall urcat în GitHub.
+[2025-12-03 22:14:40] [INFO] 🔁 Automat: MegaMillions → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megamillions.json
+[2025-12-03 22:14:42] [INFO] 🚀 MegaMillions urcat în GitHub.
+[2025-12-03 22:14:42] [INFO] 🔁 Automat: Megabucks → d:\VisualStudioCode\ExcelToJson\GitHub\src\Megabucks.json
+[2025-12-03 22:14:44] [INFO] 🚀 Megabucks urcat în GitHub.
