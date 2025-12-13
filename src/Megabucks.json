@@ -1,5 +1,44 @@
 [
   {
+    "drawDate": "2025-12-10",
+    "numbers": [
+      23,
+      27,
+      34,
+      44,
+      47,
+      48
+    ],
+    "nextDraw": "2025-12-13",
+    "estimatedJackpot": 5900000
+  },
+  {
+    "drawDate": "2025-12-08",
+    "numbers": [
+      18,
+      22,
+      31,
+      34,
+      38,
+      45
+    ],
+    "nextDraw": "2025-12-10",
+    "estimatedJackpot": 5800000
+  },
+  {
+    "drawDate": "2025-12-06",
+    "numbers": [
+      4,
+      9,
+      19,
+      21,
+      30,
+      46
+    ],
+    "nextDraw": "2025-12-08",
+    "estimatedJackpot": 5700000
+  },
+  {
     "drawDate": "2025-12-03",
     "numbers": [
       4,
