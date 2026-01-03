@@ -1,16 +1,29 @@
 [
   {
-    "drawDate": "2025-12-29",
+    "drawDate": "2026-01-02",
     "numbers": [
-      11,
-      19,
+      6,
+      13,
       34,
-      48,
-      53
+      43,
+      52
     ],
-    "specialNumber": 21,
-    "nextDraw": "2025-12-30",
-    "estimatedJackpot": 33000000
+    "specialNumber": 4,
+    "nextDraw": "2026-01-06",
+    "estimatedJackpot": 157000000
+  },
+  {
+    "drawDate": "2025-12-30",
+    "numbers": [
+      18,
+      43,
+      49,
+      63,
+      69
+    ],
+    "specialNumber": 6,
+    "nextDraw": "2026-01-02",
+    "estimatedJackpot": 138000000
   },
   {
     "drawDate": "2025-12-26",
@@ -22,7 +35,7 @@
       64
     ],
     "specialNumber": 7,
-    "nextDraw": "2025-12-29",
+    "nextDraw": "2025-12-30",
     "estimatedJackpot": 125000000
   },
   {
