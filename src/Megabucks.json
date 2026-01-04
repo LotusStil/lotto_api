@@ -1,5 +1,18 @@
 [
   {
+    "drawDate": "2026-01-03",
+    "numbers": [
+      11,
+      15,
+      25,
+      32,
+      35,
+      39
+    ],
+    "nextDraw": "2026-01-05",
+    "estimatedJackpot": 6900000
+  },
+  {
     "drawDate": "2025-12-31",
     "numbers": [
       6,
