@@ -1,5 +1,57 @@
 [
   {
+    "drawDate": "2026-02-24",
+    "numbers": [
+      12,
+      39,
+      43,
+      49,
+      55
+    ],
+    "specialNumber": 23,
+    "nextDraw": "2026-02-27",
+    "estimatedJackpot": 438000000
+  },
+  {
+    "drawDate": "2026-02-20",
+    "numbers": [
+      15,
+      40,
+      48,
+      58,
+      63
+    ],
+    "specialNumber": 2,
+    "nextDraw": "2026-02-24",
+    "estimatedJackpot": 416000000
+  },
+  {
+    "drawDate": "2026-02-17",
+    "numbers": [
+      3,
+      37,
+      44,
+      52,
+      63
+    ],
+    "specialNumber": 14,
+    "nextDraw": "2026-02-20",
+    "estimatedJackpot": 395000000
+  },
+  {
+    "drawDate": "2026-02-13",
+    "numbers": [
+      34,
+      40,
+      49,
+      59,
+      68
+    ],
+    "specialNumber": 1,
+    "nextDraw": "2026-02-17",
+    "estimatedJackpot": 385000000
+  },
+  {
     "drawDate": "2026-02-10",
     "numbers": [
       5,
